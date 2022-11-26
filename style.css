@@ -1,7 +1,8 @@
 body{
     background-color: #D6DBDF ;
     }
-    hr {
+
+hr{
     border-style: none;
     height: 2px;
     width: 30%;
@@ -10,5 +11,4 @@ body{
     border-top-style: dotted;
     border-color: #48C9B0;
     border-width: 5px;
-
     }
