@@ -1,0 +1,14 @@
+body{
+    background-color: #D6DBDF ;
+    }
+    hr {
+    border-style: none;
+    height: 2px;
+    width: 30%;
+    background-color: #D6DBDF ;
+    border-bottom-style: none;
+    border-top-style: dotted;
+    border-color: #48C9B0;
+    border-width: 5px;
+
+    }
